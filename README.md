@@ -52,8 +52,6 @@ I stay **motivated and constantly learning**, exploring cutting-edge topics in *
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-roberto-flores-luna-5050a413b/?originalSubdomain=mx)
+## 📫 Connect with Me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-roberto-flores-luna-5050a413b/?originalSubdomain=mx)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=corderodedios182&theme=solarized-dark&mode=weekly)](https://git.io/streak-stats)
