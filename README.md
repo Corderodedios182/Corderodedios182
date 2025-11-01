@@ -83,3 +83,5 @@ I stay **motivated and constantly learning**, exploring cutting-edge topics in *
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=corderodedios182&theme=solarized-dark&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corderodedios182&layout=compact)
